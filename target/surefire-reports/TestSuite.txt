@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: TestSuite
--------------------------------------------------------------------------------
-Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.613 s <<< FAILURE! - in TestSuite
-method3(testng.tests.thirdTests)  Time elapsed: 0.005 s  <<< FAILURE!
-java.lang.ArithmeticException: / by zero
-	at testng.tests.thirdTests.method3(thirdTests.java:33)
-

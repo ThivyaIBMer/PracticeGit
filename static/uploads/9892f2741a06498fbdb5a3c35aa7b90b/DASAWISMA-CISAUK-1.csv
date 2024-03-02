@@ -1,289 +1,0 @@
-7.,"Tgl.Lahir /Umur",:  09 /07/1981 Umur 41 Tahun,,,,,,,,,,,
-8.,"StatusPerkawinan",:,F 0 5 0Menikah,,Lajang,Janda,,Duda,,,,,
-"",,,F 0 5 0,,,,,,,,,,
-9.,"StatusDalamKeluarga",:,F 0 5 0,Kepala Rumah Tangga,,Anggota Keluarga Status,,,,,,,
-"",,,F 0 5 0,,,,,,,,,,
-10.,Agama,:,F 0 5 0Islam,Kristen   Katholik,Hindu,Budha,"Khonghuchu",,,,,,
-"",,,F 0 5 0I,,,,,,,,,,
-11.,Alamat,:  Kp. Cicayur Komplek Rt 006 Rw 006,,,,,,,,,,,
-"",,,.............................................................................................................................,,,,,,,,,,
-"",,,Desa/Kel/Sejenis Cisauk Kec. Cisauk,,,,,,,,,,
-"",,,Kab/Kota Tangerang Prov. Banten,,,,,,,,,,
-12.,"Pendidikan",:,,Tidak Tamat SD,SD/MI,,SMP/Sederajat,,,,,,
-"",,,,SMU/SMK/Sederajat,,,,,,,,,
-"",,,F 0 5 0,Diploma,S1,,S2,,S3,,,,
-"",,,F 0 5 0,,,,,,,,,,
-"",,,,,,,,,,,,,
-13.,Pekerjaan,:,,Petani,,Pedagang,,Swasta,Wirausaha,,,,
-"",,,,PNS,,TNI/Polri,F 0 5 0,Lainnya,,,,,
-"",,,,,,,,,F 0 5 0,,,,
-"",,,,,,,,,,,,,
-14.,"AkseptorKB",:,,Ya,F 0 5 0Tidak,Jenis Akseptor KB,,,,,,,
-"",,,,,,F 0 5 0,,,,,,,
-"","Aktifdalamkegiatan",,,,,,,,,,,,
-15.,Posyandu,:,,Ya,,0 5 0,,Tidak,Frekuensi/volume ................... Kali/......................,,,,
-"","MengikutiProgram",,,,,,,,,,,,
-16.,"BinaKeluargaBalita",:,,Ya,,0 5 0,Tidak,,,,,,
-F 0 5 0Menikah
-F 0 5 0
-F 0 5 0
-F 0 5 0
-F 0 5 0Islam
-F 0 5 0I
-F 0 5 0
-F 0 5 0
-F 0 5 0
-F 0 5 0
-F 0 5 0Tidak
-F 0 5 0
-17.,"MemilikiTabungan",,F 0 5 0,F 0 5 0,Ya,,Tidak,,,,,,
-18.,Mengikuti,,,,,,,,,,,,
-"","Kelompokbelajar",:,,Ya,,0 5 0,Tidak,,,,,,
-"",Jenis,:,,Paket A,,Paket B,Paket C,KF,,,,,
-"","MengikutiPAUD/",,,,,,,,,,,,
-19.,Sejenis,:,,Ya,0 5 0,Tidak,,,,,,,
-"",,,,,,0 5 0,,,,,,,
-"",,,,,,,,,,,,,
-"","Ikutdalam",,,,,,,,,,,,
-20.,"KegiatanKoperasi",:,,Ya,0 5 0,Tidak,Jenis Koperasi,,,,,,
-"",,,,,,0 5 0,,,,,,,
-21.,Stunting,:,-,,,,,,,,,,
-22.,IVA,:,-,,,,,,,,,,
-23.,Vaksin,:,F 0 5 0,,,,,,,,,,
-"",,,,,,,,,,,,,
-Ya,,0 5 0
-Ya,0 5 0
-"",0 5 0
-Ya,0 5 0
-"",0 5 0
-NO,KEGIATAN,AKTIVITAS (Y/T),KETERANGAN (JENIS KEGIATAN,
-"",,,YANG DIIKUTI),
-"",,,,
-1.,Penghayatan Dan,YA,P4,
-"","PengamalanPancasila",,,
-2.,Kerja Bakti,YA,Gotong Royong,
-"",,,,
-3.,Rukun Kematian,YA,Iuran/Uang,
-"",,,,
-4.,Rukun Keagamaan,YA,Pengajian,
-"",,,,
-5.,Jimpitan,-,-,
-"",,,,
-6.,Arisan,-,-,
-"",,,,
-7.,Lain-lain,-,-,
-"",,,,
-Dasa Wisma,:,Mekarjaya I,,,,
-Nama Kepala,,,,,,
-Rumah Tangga,:,Syaeful Anwar,,,,
-1.,No. Registrasi,:,3603231001/2022,,,
-2.,No. KTP/NIK,:,3603236603960002,,,
-3.,Nama,:,Wiwi Safitri,,,
-4.,Jabatan,:,.....................................................................................,,,
-5.,Jenis Kelamin,:,Laki-laki,F 0 5 0Perempuan,,
-"",,,,,F 0 5 0,
-"",,,,,,
-6.,Tempat Lahir,:,Tangerang,,,
-7.,"Tgl. Lahir /Umur",:  26 /03 /1985 Umur 37 Tahun,,,,
-8.,"StatusPerkawinan",:,F 0 5 0Menikah,Lajang,Janda,Duda
-"",,,F 0 5 0,,,
-9.,"Status DalamKeluarga",:,Kepala Rumah Tangga,F 0 5 0Anggota Keluarga Status,F 0 5 0,
-10.,Agama,:,F 0 5 0Islam   Kristen   Katholik,F 0 5 0I,"Hindu   BudhaKhonghuchu",
-11.,Alamat,:,Kp. Cicayur Komplek Rt 006/006,,,
-"",,,.............................................................................................................................,,,
-"",,,Desa/Kel/Sejenis Cisauk Kec. Cisauk,,,
-"",,,Kab/Kota Tangerang Prov. Banten,,,
-12.,Pendidikan,:,Tidak Tamat SD,SD/MI,"SMP/Sederajat",
-F 0 5 0Perempuan
-F 0 5 0
-F 0 5 0Menikah
-F 0 5 0
-F 0 5 0Anggota Keluarga Status,F 0 5 0
-F 0 5 0Islam   Kristen   Katholik,F 0 5 0I
-"",,,Diploma,,S1,S2,S3,,
-13.,Pekerjaan,:,Petani,,Pedagang,Swasta,Wirausaha,,
-"",,,PNS,,TNI/Polri,F 0 5 0,Lainnya,,
-"",,,,,,,,F 0 5 0,
-"",,,,,,,,,
-14.,Akseptor KB,:,Ya,0 5 0Tidak,Jenis Akseptor KB,,,,
-"",,,,,0 5 0,,,,
-"",,,,,,,,,
-"","Aktif dalamkegiatan",,,,,,,,
-15.,Posyandu,:,Ya,,0 5 0,,Tidak,Frekuensi/volume ................... Kali/......................,
-"","MengikutiProgram",,,,,,,,
-16.,"Bina KeluargaBalita",:,Ya,,0 5 0,Tidak,,,
-17.,"MemilikiTabungan",,F 0 5 0 Ya,F 0 5 0,,Tidak,,,
-18.,Mengikuti,,,,,,,,
-"","Kelompokbelajar",:,Ya,,0 5 0,Tidak,,,
-"",Jenis,:,Paket A,,Paket B,Paket C,KF,,
-"","MengikutiPAUD/",,,,,,,,
-19.,Sejenis,:,Ya,0 5 0,Tidak,,,,
-"",,,,0 5 0,,,,,
-"",,,,,,,,,
-"",Ikut dalam,,,,,,,,
-20.,"KegiatanKoperasi",:,Ya,0 5 0,Tidak,Jenis Koperasi,,,
-"",,,,0 5 0,,,,,
-21.,Stunting,:,-,,,,,,
-22.,IVA,:,-,,,,,,
-F 0 5 0
-F 0 5 0
-Ya,0 5 0Tidak
-"",0 5 0
-Ya,,0 5 0
-F 0 5 0 Ya,F 0 5 0
-Ya,,0 5 0
-Ya,0 5 0
-"",0 5 0
-Ya,0 5 0
-"",0 5 0
-NO,KEGIATAN,AKTIVITAS (Y/T),KETERANGAN (JENIS KEGIATAN,
-"",,,YANG DIIKUTI),
-"",,,,
-1.,Penghayatan Dan,YA,P4,
-"","PengamalanPancasila",,,
-2.,Kerja Bakti,YA,Gotong Royong,
-"",,,,
-3.,Rukun Kematian,YA,Iuran/Uang,
-"",,,,
-4.,Rukun Keagamaan,YA,Pengajian,
-"",,,,
-5.,Jimpitan,YA,Perelek,
-"",,,,
-6.,Arisan,TIDAK,-,
-"",,,,
-7.,Lain-lain,-,-,
-"",,,,
-Dasa Wisma,:,Mekar Jaya I,,,,,,,,
-Nama Kepala,,,,,,,,,,
-Rumah Tangga,:,Syaeful Anwar,,,,,,,,
-1.,"No.Registrasi",:,3603231001/2022,,,,,,,
-2.,No. KTP/NIK,:,3603235211110001,,,,,,,
-3.,Nama,:,Aina Talita,,,,,,,
-4.,Jabatan,:,-,,,,,,,
-5.,"JenisKelamin",:,Laki-laki,,F 0 5 0Perempuan,,,,,
-"",,,,,F 0 5 0,,,,,
-6.,"TempatLahir",:,Tangerang,,,,,,,
-7.,"Tgl. Lahir /Umur",:  12 /11 /2011 Umur 11 Tahun,,,,,,,,
-8.,"StatusPerkawinan",:,Menikah,F 0 5 0,Janda,Duda,,,,
-9.,"Status DalamKeluarga",:,Kepala Rumah Tangga,F 0 5 0,F 0 5 0,Anggota Keluarga Status,,,,
-10.,Agama,:,F 0 5 0Islam,Kristen   Katholik   Hindu,Budha,Khonghuchu,,,,
-"",,,F 0 5 0I,,,,,,,
-"",,,,,,,,,,
-11.,Alamat,:,Kp. Cicayur Komplek Rt 006 Rw 006,,,,,,,
-"",,,.............................................................................................................................,,,,,,,
-"",,,Desa/Kel/Sejenis Cisauk Kec. Cisauk,,,,,,,
-"",,,Kab/Kota Tangerang Prov. Banten,,,,,,,
-12.,Pendidikan,:,F 0 5 0 Tidak Tamat SD,SD/MI,SMP/Sederajat,,,,,
-F 0 5 0,,,,,,,,,,
-"",,,,,,,,,,
-F 0 5 0Perempuan
-F 0 5 0
-F 0 5 0
-F 0 5 0,F 0 5 0
-F 0 5 0Islam
-F 0 5 0I
-F 0 5 0 Tidak Tamat SD
-F 0 5 0
-"",,,SMU/SMK/Sederajat,,,,,,,,
-"",,,Diploma,,S1,S2,,S3,,,
-13.,Pekerjaan,:,Petani,,Pedagang,Swasta,Wirausaha,,,,
-"",,,PNS,,TNI/Polri,0 5 0,Lainnya,,,,
-"",,,,,,,,0 5 0,,,
-"",,,,,,,,,,,
-14.,Akseptor KB,:,Ya,0 5 0,Tidak,Jenis Akseptor KB,,,,,
-"",,,,,0 5 0,,,,,,
-"",,,,,,,,,,,
-"","Aktif dalamkegiatan",,,,,,,,,,
-15.,Posyandu,:,Ya,,0 5 0,,Tidak,Frekuensi/volume ................... Kali/......................,,,
-"","MengikutiProgram",,,,,,,,,,
-16.,"BinaKeluargaBalita",:,Ya,,0 5 0,Tidak,,,,,
-17.,"MemilikiTabungan",,Ya,,0 5 0,Tidak,,,,,
-18.,Mengikuti,,,,,,,,,,
-"","Kelompokbelajar",:,Ya,,0 5 0,Tidak,,,,,
-"",Jenis,:,Paket A,,Paket B,Paket C,KF,,,,
-"","MengikutiPAUD/",,,,,,,,,,
-19.,Sejenis,:,Ya,0 5 0,Tidak,,,,,,
-"",,,,0 5 0,,,,,,,
-"",,,,,,,,,,,
-"",Ikut dalam,,,,,,,,,,
-20.,"KegiatanKoperasi",:,Ya,0 5 0,Tidak,Jenis Koperasi,,,,,
-"",,,,0 5 0,,,,,,,
-21.,Stunting,:,-,,,,,,,,
-22.,IVA,:,-,,,,,,,,
-23.,Vaksin,:,-,,,,,,,,
-0 5 0
-0 5 0
-Ya,0 5 0
-"",0 5 0
-Ya,,0 5 0
-Ya,,0 5 0
-Ya,,0 5 0
-Ya,,0 5 0
-Ya,0 5 0
-"",0 5 0
-Ya,0 5 0
-"",0 5 0
-NO,KEGIATAN,AKTIVITAS (Y/T),KETERANGAN (JENIS KEGIATAN,
-"",,,YANG DIIKUTI),
-"",,,,
-1.,Penghayatan Dan,TIDAK,-,
-"","PengamalanPancasila",,,
-2.,Kerja Bakti,TIDAK,-,
-"",,,,
-3.,Rukun Kematian,TIDAK,-,
-"",,,,
-4.,Rukun Keagamaan,IYA,PENGAJIAN,
-"",,,,
-5.,Jimpitan,TIDAK,-,
-"",,,,
-6.,Arisan,TIDAK,-,
-"",,,,
-7.,Lain-lain,-,-,
-"",,,,
-"",,,DATA KELUARGA
-Dasa Wisma Mekarjaya I,,,
-RT 006 RW 006,,"Dusun/Lingk..........................................................",
-Kelurahan Cisauk,,Kec. Cisauk,
-Kabupaten Tangerang,,Prov Banten,
-Nama Kepala Rumah Tangga,Syaeful Anwar,,
-Jumlah Anggota Keluarga,: 3 Orang,,
-"",,: Laki-laki 1 Orang,
-"",,: Perempuan 2 Orang,
-1.,Jumlah KK,:  1,KK
-2.,Jumlah,:,
-"",,"STATUS DLMAANGOT","STATUSDALAM",,JENIS,"TGL",,,,
-"NO.REG",,KELAMIN,"LAHIR/","PENDIDIKAN","PEKERJAAN",,,,,
-"",,"ELKELUARGAARA","PERKAWAINAN",,,,,,,
-"",,L,,P,"UMUR",,,,,
-"","SyaefulAnwar",KK,"Kawin",,"Diploma","PerangkatDesa",,,,
-"",F 0 5 0,,,42,,,,,,
-"","WiwiSyafitri",Istri,"Kawin",,,0 5 0,37,"SLTA","Guru",
-"","AinaTalita",Anak,"Anak",,,0 5 0,11,SD,"Belum",
-0 5 0,,,,,,,,,,
-F 0 5 0
-0 5 0
-0 5 0
-0 5 0
-3.,Makan,: F 0 5 0,Beras,,Pembu,,,
-"",Pokok,,,,angan,,,
-"",Sehari-,,,,Air,,,F 0 5 0
-"",hari,,,,Limba,,,
-4.,Memp,: F 0 5 0,Ya,,h,,,
-"",unyai,,,8.,Mene,: F 0 5 0,Ya,F 0 5 0
-"",Jamba,,,,mpel,,,
-"",n,,,,Stiker,,,
-"",Keluar,,,,P4K,,,F0 5 0
-"",ga,,,9.,Kriteri,:,Sehat,
-5.,Sumbe,: F 0 5 0,PDAM,,a,,,
-"",r Air,,,,Rumah,,,
-"",Keluar,,,10.,Aktifit,: F 0 5 0,Ya,
-"",ga,,,,as,,,
-6.,Memili,:,Ya,,UP2K,,,
-"",ki,,,11.,Aktifit,:,Ya,
-"",Tempa,,,,as,,,
-"",t,,,,Kegiat,,,
-"",Pembu,,,,an,,,
-"",angan,,,,Usaha,,,
-"",Sampa,,,,Keseha,,,
-"",h,,,,tan,,,
-7.,Memp,: F 0 5 0,Ya,,Lingku,,,
