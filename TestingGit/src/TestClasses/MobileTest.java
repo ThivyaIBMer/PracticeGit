@@ -6,6 +6,10 @@ public class MobileTest {
 
 		System.out.println("Iam in Mobile Testing");
 		System.out.println("Iam in Mobile2 Testing");
+		System.out.println("Iam in Mobile Testing");
+		System.out.println("Iam in Mobile2 Testing");
+		System.out.println("Iam in Mobile Testing");
+		System.out.println("Iam in Mobile2 Testing");
 	}
 
 }
