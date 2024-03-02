@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+<listener class-name="testng.tests.Listeners"/>
+</listeners>
+  <!-- <test thread-count="5" name="firstSet">
+  
+    <classes>
+       <class name="testng.tests.firstTest">
+       <methods>
+       <include name="web.*"/>
+       </methods>
+       </class>
+      <class name="testng.tests.secondTest"/>
+    </classes> 
+  </test> 
+  <test thread-count="5" name="secondSet">
+    <classes>
+    
+        <class name="testng.tests.thirdTests"/>
+     
+    </classes>
+  </test> -->
+  <parameter name="un" value="admin"/>
+  <parameter name="pwd" value="admin123"/>
+  <test thread-count="5" name="parameteres">
+    <classes>
+    
+        <class name="testng.tests.parameters"/>
+          <class name="testng.tests.thirdTests"/>
+     
+    </classes>
+  </test>
+</suite>
