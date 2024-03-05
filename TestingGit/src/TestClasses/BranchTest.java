@@ -9,6 +9,9 @@ public class BranchTest {
 		if(a==b) {
 			System.out.println("not equal");
 		}
+		else {
+			System.out.println("equals");
+		}
 
 	}
 
